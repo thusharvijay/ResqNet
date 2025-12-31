@@ -1,0 +1,9 @@
+
+{
+  "name": "ResqNet Firefighter Command Dashboard",
+  "description": "A high-performance emergency response dashboard featuring live room-by-room surveillance, real-time sensor monitoring (smoke, CO2, O2), AI-driven rescue prioritization, and direct voice communication channels.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
